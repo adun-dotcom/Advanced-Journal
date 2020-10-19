@@ -1,4 +1,5 @@
 var extraNote = document.getElementById("main")
+
 var countNote = document.getElementById("count")
 
 var article = document.getElementsByTagName("article")
